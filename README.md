@@ -6,10 +6,10 @@
 https://ecommerce-antzshop.web.app
 
 #### Link for CMS Client:
-[AnTz Shop - CMS Client](https://github.com/AnthonyGunardi/ecommerce-client-CMS)
+[AnTz Shop - CMS Client](https://github.com/AnthonyGunardi/eCommerce-client-CMS)
 
 #### Link for Server:
-[AnTz Shop - Server](https://github.com/AnthonyGunardi/ecommerce-server)
+[AnTz Shop - Server](https://github.com/AnthonyGunardi/eCommerce-server)
 
 
 ## Project setup
